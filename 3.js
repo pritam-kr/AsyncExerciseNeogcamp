@@ -7,7 +7,7 @@
 
 const getDelayMessage = (message, delay) => {
   setTimeout(() => {
-    console.log(`This is your message ${message}`);
+    `This is your message ${message}`;
   }, delay);
 };
 
