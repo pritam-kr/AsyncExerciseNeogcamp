@@ -20,4 +20,4 @@ const thanosDontKillMe = () => 'Yay! I am alive!';
 const thanosKillMe = () =>
   'Give my bose speakers and apple headphones to my sister';
 
-console.log(willThanosKillMe('Pritam Kumar', thanosDontKillMe, thanosKillMe));
+willThanosKillMe('Pritam Kumar', thanosDontKillMe, thanosKillMe);
