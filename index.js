@@ -6,5 +6,5 @@ import './3.js';
 import './4.js';
 
 // Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h2>AsyncJSExercises</h2>`;
+// const appDiv = document.getElementById('app');
+// appDiv.innerHTML = `<h2>AsyncJSExercises</h2>`;

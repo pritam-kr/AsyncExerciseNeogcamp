@@ -10,8 +10,8 @@
 // A function. This function will get the length of the string. Use that length to print a message: OMG! my name is X char long!
 
 const strLength = (name, callback) => {
-  const userName = name;
-  return callback(userName);
+  const userName = callback(name);
+  return userName;
 };
 
 const getCallback = (name) => `Hello Sir Your name length is ${name.length}`;
