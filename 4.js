@@ -51,3 +51,5 @@ const getPromieMess = async (message, promiseReject) => {
 };
 
 getPromieMess('Hello Pritam', true);
+
+Promise.allSe;
